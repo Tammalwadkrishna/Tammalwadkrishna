@@ -53,9 +53,11 @@ I enjoy working with data, solving real-world problems, and presenting insights 
 
 ## 📈 GitHub Stats (Live)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishna-tammalwad&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tammalwadkrishna&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-tammalwad&theme=highcontrast"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tammalwadkrishna&theme=highcontrast"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tammalwadkrishna&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
