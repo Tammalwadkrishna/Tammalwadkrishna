@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | Data Analyst | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Data+Science+Explorer;Always+Learning+Something+New!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI%2FML;Data+Science+Explorer;Always+Learning+Something+New!" />
 </p>
 
 ---
